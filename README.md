@@ -3,4 +3,4 @@ Simple Application of Airport Database written in Python.
 
 Application has to be changed to work on every device. In future I will work on it. Now you can see the code and the UI done in PyQT.
 
-Project has been done in collaboration iwth my uni friend Karolina Hetnał.
+Project has been done in collaboration with my classmate friend Karolina Hetnał.
